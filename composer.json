@@ -1,0 +1,12 @@
+{
+    "name": "eoi13/richi.recipemug.club",
+    "authors": [
+        {
+            "name": "Richard Morales",
+            "email": "richi.moralesluis@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.5"
+    }
+}
